@@ -1,0 +1,16 @@
+sudo apt update          #atualizar o sources.list
+sudo apt upgrade         #atualizar o sistema 
+sudo apt full-upgrade    #atualização completa do sistema
+sudo apt dist_upgrade    #atualização da distribuição 
+sudo apt autoremove      #auto remoção de software
+sudo apt autoclean       #auto remoção do sistema operacional
+sudo reboot              #reiniciar o sistema
+history                  #historico de comandos
+sudo apt install vim     #instalar software
+
+
+grafico: ctrl+ alt+ f7
+terminal: ctrl+ alt+ f1
+limpar: ctrl+l
+terminal: ctrl+ alt+t
+sair terminal ctrl + D (exit)
